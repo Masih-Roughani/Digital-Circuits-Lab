@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:5A8A1208
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:27 "tenth -> R4,R5"
+NODE:V LEVEL:0 LINE:27 "Sec -> R6,R7"
+NODE:V LEVEL:0 LINE:27 "Min -> R8,R9"
+NODE:V LEVEL:0 LINE:27 "Hour -> R10,R11"
+NODE:F LEVEL:0 LINE:28 "timer0_comp_isr(void)"
+NODE:F LEVEL:0 LINE:41 "main(void)"
