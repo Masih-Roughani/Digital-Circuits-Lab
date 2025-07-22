@@ -217,23 +217,6 @@ ESP32-Camera-WebServer/
 
 <div align="center">
 
-### 🤝 **Community & Support**
-
-[![GitHub Issues](https://img.shields.io/badge/Issues-GitHub-red?style=for-the-badge&logo=github)](https://github.com/Masih-Roughani/ESP32-Camera-WebServer/issues)
-[![Discussions](https://img.shields.io/badge/Discussions-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Masih-Roughani/ESP32-Camera-WebServer/discussions)
-
-**Found a bug?** Open an issue  
-**Have a question?** Start a discussion  
-**Want to contribute?** Submit a pull request
-
-</div>
-
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 <div align="center">
